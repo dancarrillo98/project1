@@ -1,0 +1,10 @@
+[0m[[0m[31merror[0m] [0m[0mC:\Users\danca\OneDrive\Documents\Revature\project1\proj1\newsanalysis\src\main\scala\Main.scala:346:9: not found: value response[0m
+[0m[[0m[31merror[0m] [0m[0m        response = scala.io.StdIn.readInt()[0m
+[0m[[0m[31merror[0m] [0m[0m        ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\danca\OneDrive\Documents\Revature\project1\proj1\newsanalysis\src\main\scala\Main.scala:347:9: not found: value response[0m
+[0m[[0m[31merror[0m] [0m[0m        response match {[0m
+[0m[[0m[31merror[0m] [0m[0m        ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\danca\OneDrive\Documents\Revature\project1\proj1\newsanalysis\src\main\scala\Main.scala:358:16: not found: value response[0m
+[0m[[0m[31merror[0m] [0m[0m      } while (response != 7)[0m
+[0m[[0m[31merror[0m] [0m[0m               ^[0m
+[0m[[0m[31merror[0m] [0m[0mthree errors found[0m
