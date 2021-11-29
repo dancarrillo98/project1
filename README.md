@@ -1,15 +1,15 @@
-# Hungry Helper
+# PoliticsNow - A News Analyzer
 
 ## Project Description
-
-A scala and MongoDB program to help you decide what you and your family want for dinner!
+A scala console application that retrieves political articles from the NewsAPI and analyzes them with Hive.
 
 ## Technologies Used
-* Scala 2.13 (File I/O, Collections)
-* MongoDB
-* sbt
-* git SCM (+ GitHub)
+* Hadoop MapReduce
+* YARN
+* HDFS
+* Scala 2.13
+* Hive
+* Git + GitHub
 
 ## Features
-This program allows you to read in a CSV to make entries or to use the commandline CRUD functionality
-
+This program allows you to fetch political articles from the API and answer questions like: what are the top titles in politics; what are the top sources in politics; what are the top authors in politics; when were the top articles written; how many articles did it scrape; and, what is the top word in politics.
